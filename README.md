@@ -6,3 +6,10 @@
 - Segundo paso: Implementar las fórmulas en JavaScript
 - Tercer paso: Crear funciones
 - Cuarto paso: Integrar JavaScript con HTML
+
+## Talle #2: Porcentajes y descuentos
+
+- Primer paso: Definir las formas
+- Segundo paso: Implementar las fórmulas en JavaScript
+- Tercer paso: Crear funciones
+- Cuarto paso: Integrar JavaScript con HTML
